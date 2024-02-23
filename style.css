@@ -1,0 +1,98 @@
+body{
+background-color:beige;
+
+}
+#mainhead{
+    text-align: center;
+    font-size: 100px;
+    font-family: serif;
+    
+    
+}
+.aboutme{
+    font-size: 40px;
+    margin-left: 600px;
+}
+.edu{
+font-size: 20px;
+border: black solid 5px;
+height: 300px;
+width: 300px;
+padding: 50px;
+margin-left: 500px;
+background-color: #E3735E;
+font-family: sans-serif;
+}
+.skills{
+font-size: 20px;
+border: black solid 5px;
+height: 300px;
+width: 300px;
+padding:50px;
+margin-left:500px;
+margin-top:10px ;
+background-color: turquoise;
+
+font-family: sans-serif;
+
+
+
+
+
+
+
+
+}
+#skillshead{
+    font-size: 30px;
+font-family: serif;
+}
+#eduhead{
+    font-size: 30px;
+    font-family: serif;
+}
+.hobbies{
+    font-size: 20px;
+    text-align: center;
+    background-color:#DAA38B;
+    
+font-family: sans-serif;
+}
+#interests{
+    font-size: 30px;
+    font-family: serif;
+    
+
+}
+#sdvimg{
+    height: 100px;
+    width: 200px;
+    border-radius: 20%;
+}
+
+
+
+.contactme{
+    text-align: end;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#copy{
+    text-align: ;
+    text-align: start;
+    font-family: serif;
+}
+#mypic{
+    height: 100px;
+    width: 100px;
+    border-radius:50% ;
+    margin-top: 10px;
+
+}
+.hero{
+    text-align: center;
+    font-size: 20px;
+    background-color;
+    border-top:cornsilk solid 5px;
+    font-family: sans-serif;
+}

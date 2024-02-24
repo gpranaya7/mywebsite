@@ -101,7 +101,7 @@ font-family: sans-serif;
     font-family: sans-serif;
 }
 
-@media (min-width: 319px) and (max-width: 800px) {
+@media (min-width: 200px) and (max-width: 800px) {
     .edu{
     
         margin-left: 20px;

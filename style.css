@@ -107,16 +107,17 @@ font-family: sans-serif;
     
         margin-left: 0px;
         height: 300px;
-        width: 250px;
+        width: 270px;
         padding:50px;
     }
     #mainhead{
         text-align: center;
+        font-size: 50px;
     }
     .skills{
         margin-left: 0px;
         height: 300px;
-        width: 250px;
+        width: 270px;
         padding:50px;
     }
     .hero{
@@ -130,7 +131,8 @@ text-align: center;
     .hobbies{
         text-align: center;
         background-color: #DAA38B;
-width: 250px;
+width: 370px;
+height:350px;
 
     }
     .contactme{

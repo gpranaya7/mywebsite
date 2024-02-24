@@ -107,7 +107,7 @@ font-family: sans-serif;
     
         margin-left: 0px;
         height: 300px;
-        width: 400px;
+        width: 300px;
         padding:50px;
     }
     #mainhead{
@@ -116,7 +116,7 @@ font-family: sans-serif;
     .skills{
         margin-left: 0px;
         height: 300px;
-        width: 400px;
+        width: 300px;
         padding:50px;
     }
     .hero{
@@ -130,7 +130,8 @@ text-align: center;
     .hobbies{
         text-align: center;
         background-color: #DAA38B;
-width: 100%;
+width: 300px;
+
     }
     .contactme{
         text-align: end;
